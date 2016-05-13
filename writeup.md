@@ -82,7 +82,6 @@ I have tested various performance metrics like accuracy, sensitivity, specificty
     ROC curve is a plot of as true positive rate vs false positive rate. The closer the curve follows the left-hand border and then the top border of the ROC space, the more accurate the test. The closer the curve comes to the 45-degree diagonal of the ROC space, the less accurate the test.
     The accuracy of the test depends on how well the test separates the group being tested into those with and without the disease in question. This is measured by the Area Under the ROC Curve (AUC). An area of 1 represents a perfect test; an area of .5 represents a worthless test.
 
-    ### Histograms
-    ![Histograms of all the features]
-
-     (https://github.com/PayalGala/Practice/blob/dev/Plots/Histograms_of_variables.png)
+### Histograms
+![Histograms of all the features]
+(https://github.com/PayalGala/Practice/blob/dev/Plots/Histograms_of_variables.png)
