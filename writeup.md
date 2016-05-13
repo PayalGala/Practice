@@ -85,4 +85,4 @@ I have tested various performance metrics like accuracy, sensitivity, specificty
     ### Histograms
     ![Histograms of all the features]
 
-     (https://github.com/PayalGala/Practice/blob/dev/Plots/Histograms%20of%20variables.png)
+     (https://github.com/PayalGala/Practice/blob/dev/Plots/Histograms_of_variables.png)
